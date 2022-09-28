@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dog/Dog.iml" filepath="$PROJECT_DIR$/Dog/Dog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessGame/GuessGame.iml" filepath="$PROJECT_DIR$/GuessGame/GuessGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhraseOMatic/PhraseOMatic.iml" filepath="$PROJECT_DIR$/PhraseOMatic/PhraseOMatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaHeadFirst.iml" filepath="$PROJECT_DIR$/.idea/javaHeadFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/quickSort/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/startup/startup.iml" filepath="$PROJECT_DIR$/startup/startup.iml" />
+    </modules>
+  </component>
+</project>
